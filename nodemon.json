@@ -1,0 +1,6 @@
+{
+    "env":{
+        "mp": "123456%40guest",
+        "jwt_key" : "secretoken" 
+    }
+}
